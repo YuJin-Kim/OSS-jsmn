@@ -1,0 +1,47 @@
+{
+  "Cosmetic":
+  [
+    {
+      "function" : "CLEANSING",
+      "name" : " 쌩얼 멀티 클렌져 150ml",
+      "event" : "10% 할인",
+      "price" : 16740,
+      "count" : 2
+    },
+    {
+      "function" : "LOTION",
+      "name" : "알로에 로션 링클 페어 150ml",
+      "event" : "NO EVENT",
+      "price" : 8900,
+      "count" : 3
+    },
+    {
+      "function" : "CREAM",
+      "name" : "민중기 EFI 아이크림 30ml",
+      "event" : "1+1",
+      "price" : 28600,
+      "count" : 1
+    },
+    {
+      "function" : "AMPOULE",
+      "name" : "피뿌리풀 앰플 50ml",
+      "event" : "증정품",
+      "price" : 16800,
+      "count" : 1
+    },
+    {
+      "function" : "SKIN",
+      "name" : "알로에 스킨 화이트닝 150ml",
+      "event" : "NO EVENT",
+      "price" : 8900,
+      "count" : 6
+    },
+    {
+      "function" : "CLEANSING",
+      "name" : "시드물 코코넛 비누 100g",
+      "event" : "NO EVENT",
+      "price" : 3900,
+      "count" : 4
+    }
+  ]
+}

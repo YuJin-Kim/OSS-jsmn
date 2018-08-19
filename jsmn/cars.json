@@ -1,0 +1,28 @@
+{
+  "cars" : [
+    {
+      "model" : "Sonata",
+      "maker" : "Hyundai",
+      "year" : 2016,
+      "gas" : "gasoline"
+    },
+    {
+      "model" : "Sorento",
+      "maker" : "Kia",
+      "year" : 2002,
+      "gas" : "diesel"
+    },
+    {
+      "model" : "BMW M5",
+      "maker" : "BMW",
+      "year" : 1984,
+      "gas" : "gasoline"
+    },
+    {
+      "model" : "Audi A6",
+      "maker" : "Audi",
+      "year" : 2018,
+      "gas" : "LPG"
+    }
+  ]
+}
